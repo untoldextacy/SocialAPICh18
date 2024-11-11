@@ -24,7 +24,7 @@ MongoDB running locally or through a cloud service like MongoDB Atlas
 
 1) Clone the repository
 ```bash
-git clone https://github.com/untoldextacy/MediaAPI.git
+git clone https://github.com/untoldextacy/SocialAPICh18.git
 ```
 
 2) Install dependencies
